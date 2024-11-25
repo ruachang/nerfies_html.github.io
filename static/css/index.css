@@ -13,6 +13,10 @@ body {
     margin-bottom: 5px;
 }
 
+.container {
+    max-width: 1300px;
+}
+
 .dnerf {
   font-variant: small-caps;
 }
@@ -20,7 +24,7 @@ body {
 
 .teaser .hero-body {
   padding-top: 0;
-  padding-bottom: 3rem;
+  padding-bottom: 0.2rem;
 }
 
 .teaser {
